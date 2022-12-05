@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnderPonte/testmusic.git/static/css/main.0e79f2ce.css",
+    "main.js": "/AnderPonte/testmusic.git/static/js/main.038f57af.js",
+    "index.html": "/AnderPonte/testmusic.git/index.html",
+    "main.0e79f2ce.css.map": "/AnderPonte/testmusic.git/static/css/main.0e79f2ce.css.map",
+    "main.038f57af.js.map": "/AnderPonte/testmusic.git/static/js/main.038f57af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e79f2ce.css",
+    "static/js/main.038f57af.js"
+  ]
+}
